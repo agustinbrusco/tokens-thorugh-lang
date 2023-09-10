@@ -1,0 +1,15 @@
+# Local Config & Format
+.flake8
+.vscode/
+.env
+pyrightconfig.json
+
+# Local Anaconda Environments
+langtoken_env/
+
+# Local Copy of the Dataset
+flores200/flores200_dataset/
+
+# Cache & Checkpoints
+.ipynb_checkpoints/
+__pycache__/
